@@ -1,0 +1,4 @@
+POSTGRES_USER=admin
+POSTGRES_PASSWORD=admin
+POSTGRES_DB=admin
+DATABASE_URL=postgresql+asyncpg://admin:admin@db:5432/admin
